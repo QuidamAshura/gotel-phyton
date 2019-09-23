@@ -1,0 +1,25 @@
+.navbar {
+  box-shadow: 2px 2px 5px #000000;
+  opacity: .9;
+}
+
+.navbar .nav-item .nav-link {
+  color: #ffff;
+}
+
+body.html {
+  height: 100%;
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background: linear-gradient(  rgb(255, 255, 255)), url('../img/background.jpg');
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: cover;
+  background-position: center;
+}
+
+.logo {
+  height: 40px;
+}
